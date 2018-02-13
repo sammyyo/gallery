@@ -1,0 +1,29 @@
+body {
+    width: auto;
+    margin: 0;
+    padding: 0;
+}
+
+h1 {
+    text-align: center;
+}
+
+ul li {
+    width: 19%;
+    display: inline-block;
+}
+img {
+    width: 100%;
+    vertical-align: text-top;
+}
+#screen {
+    width: 860px;
+    height: 600px;
+    background-image: url("images/img1.png");
+    background-size: cover;
+    margin: 20px auto;
+}
+button {
+    width: 0px;
+    height: 30px;
+}
